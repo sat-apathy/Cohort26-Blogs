@@ -23,7 +23,7 @@ Links to all the Blogs
    https://sat-apathycohort.hashnode.dev/getting-started-with-curl
 10. How a Browser Works: A Beginner-Friendly Guide to Browser Internals
     https://sat-apathycohort.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
-11. Understanding HTML Tags and Elements
+11. Understanding HTML Tags and Elements:
     https://sat-apathycohort.hashnode.dev/understanding-html-tags-and-elements-with-hands-on-practice
 12. CSS Selectors 101: Targeting Elements with Precision
     https://sat-apathycohort.hashnode.dev/css-selectors-101-targeting-elements-with-precision
